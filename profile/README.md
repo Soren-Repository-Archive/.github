@@ -1,6 +1,6 @@
 # Soren's Repository Archive
 
-This organization is built as an archive for inactive or retired projects 
+This organization is built as an archive for inactive, retired or extra projects 
 
 For a ***software developer***, the best way to show an employer our experience is through coding projects, here are more projects that have been worked on to show that experience
 
